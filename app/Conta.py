@@ -26,4 +26,4 @@ class Conta:
         self.saldo += valor
        
     def extrato(self):
-        print("Cliente: ", self.titular, "Saldo: "self.saldo)
+        print("Cliente: ", self.titular, "Saldo: ", self.saldo)

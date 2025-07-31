@@ -13,4 +13,8 @@ conta = Conta(c1.nome, 6565, 0)
 # print(c1)
 # print(c1.nome, "e", c1.telefone)
 
-print(conta.titular, " Numero: ", conta.numero, "Seu Saldo: ", conta.saldo)
+# print(conta.titular, " Numero: ", conta.numero, "Seu Saldo: ", conta.saldo)
+
+conta.deposita(1000)
+conta.saque(500)
+conta.extrato()
