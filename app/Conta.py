@@ -3,13 +3,13 @@ class Conta:
         self.saldo = 0
         self.numero = numero
         self.titular = titular
-        
-    # Método Get
-    def get_saldo(self):
+
+    @property 
+    def saldo(self):
         return self._saldo
     
-    # Método Set
-    def set_saldo(self, valor):
+    @saldo.setter
+    def saldo(self, valor):
         if (valor < 0):
             print("O saldo não pode ser negativo")
         else:
