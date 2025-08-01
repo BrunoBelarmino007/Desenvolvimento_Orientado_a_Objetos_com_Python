@@ -1,8 +1,12 @@
 class Cliente:
     def __init__(self, n, fone):
 
-        self._nome = n
-        self._telefone = fone
+        self.nome = n
+        self.telefone = fone
+
+    # # Atributos privados
+    #     self._nome = n
+    #     self._telefone = fone
         
     # Método Get
     def get_nome(self):
