@@ -151,10 +151,12 @@ Este repositório é para fins educacionais. Sugestões de melhorias e extensõe
 
 ---
 
-**Parte da Trilha Python:** Curso 3 de 5 | [Ver curso anterior: Python Básico](https://github.com/BrunoBelarmino007/Python)
-
----
-
 Que tudo o que somos e temos seja para a glorificação do nome DELE - Romanos 11:33-36.
 
 ---
+
+## 📌 Trilha de Aprendizado em Python
+
+| ◀️ Anterior | Atual 📍 | Próximo ▶️ |
+|-------------|----------|-------------|
+| [Python Básico](https://github.com/BrunoBelarmino007/Python) | **Python com POO** | [Python com Interface Gráfica](https://github.com/BrunoBelarmino007/PythoncomInterfaceGrafica.git) |
